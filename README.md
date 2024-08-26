@@ -1,1 +1,2 @@
 # facial-emotion-detection
+The Emotion Detection system is a deep learning-based tool designed to accurately recognize emotions from facial expressions in images. This project involves several stages, from loading and configuring a pre-trained model to processing images and predicting emotions. By leveraging advanced machine learning techniques, the system provides reliable emotion detection, making it suitable for various applications, including human-computer interaction, sentiment analysis, and more.
